@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Soukaina
+ 
  */
 public class Login extends javax.swing.JFrame {
     ResultSet rs;
