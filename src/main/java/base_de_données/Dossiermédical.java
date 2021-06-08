@@ -275,7 +275,7 @@ public class Dossiermédical extends javax.swing.JFrame {
         getContentPane().add(jLabel15);
         jLabel15.setBounds(730, 420, 100, 14);
 
-        jButton2.setText("Télécharger");
+        jButton2.setText("Charger");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
@@ -284,7 +284,7 @@ public class Dossiermédical extends javax.swing.JFrame {
         getContentPane().add(jButton2);
         jButton2.setBounds(110, 560, 100, 23);
 
-        jButton3.setText("Télécharger");
+        jButton3.setText("Charger");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton3ActionPerformed(evt);
@@ -302,7 +302,7 @@ public class Dossiermédical extends javax.swing.JFrame {
         getContentPane().add(jButton4);
         jButton4.setBounds(1140, 300, 100, 30);
 
-        jButton5.setText("Télécharger");
+        jButton5.setText("Charger");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton5ActionPerformed(evt);
@@ -311,7 +311,7 @@ public class Dossiermédical extends javax.swing.JFrame {
         getContentPane().add(jButton5);
         jButton5.setBounds(710, 560, 100, 23);
 
-        jButton6.setText("Télécharger");
+        jButton6.setText("Charger");
         jButton6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton6ActionPerformed(evt);
@@ -320,7 +320,7 @@ public class Dossiermédical extends javax.swing.JFrame {
         getContentPane().add(jButton6);
         jButton6.setBounds(1130, 560, 100, 23);
 
-        jButton7.setText("Télécharger");
+        jButton7.setText("Charger");
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton7ActionPerformed(evt);
@@ -339,7 +339,7 @@ public class Dossiermédical extends javax.swing.JFrame {
         getContentPane().add(com_rech3);
         com_rech3.setBounds(1020, 240, 120, 20);
 
-        jButton9.setText("Télécharger");
+        jButton9.setText("Charger");
         jButton9.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton9ActionPerformed(evt);
